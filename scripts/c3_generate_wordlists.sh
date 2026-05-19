@@ -16,7 +16,7 @@
 #               written permission to test.
 #
 # Author      : Immanuel John Sia
-# Assessment  : BAConnect - Web Application Security Assessment (FYP 2025-2026)
+# Assessment  : BAConnect - Web Application Security Assessment (FYP 2025)
 # =============================================================================
 
 OUTPUT_DIR="payloads"
